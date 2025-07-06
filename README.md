@@ -25,11 +25,11 @@ A static webpage capable of enhancing the prompts and generate new image is aval
 Note that NSFW feature has been turned OFF. 
 
 ## Authors
+- Bryan Chang Tze Kin: tk.chang.2024@mitb.smu.edu.sg
 - Dau Vu Dang Khoi: vdk.dau.2024@mitb.smu.edu.sg
 - Li Xinjie ✉ : xinjie.li.2024@mitb.smu.edu.sg
-- Nguyen Ha: ha.nguyen.2024@mitb.smu.edu.sg
+- Nguyen Nguyen Ha: ha.nguyen.2024@mitb.smu.edu.sg
 - Samuel Lee Wei Sheng: ws.lee.2024@mitb.smu.edu.sg
-- Bryan Chang Tze Kin: tk.chang.2024@mitb.smu.edu.sg
 
 
 ## Acknowledgements
