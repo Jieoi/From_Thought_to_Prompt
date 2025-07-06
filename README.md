@@ -17,3 +17,8 @@ This repository presents code, data and documentation for a study on automatic e
   - **LLM-Based Ranking**: Proxy “manual” rankings via GPT-4o-mini  
   - **Image-to-Image Metrics**: CLIP cosine similarity, LPIPS  
   - **Text-to-Image Metrics**: CLIP interpolation score, Davidsonian Scene Graph (DSG) ratio
+
+## Webdemo
+
+A static webpage capable of enhancing the prompts and generate new image is avaliable at: https://drive.google.com/drive/folders/1OU19AtYCvr_IaP539iadXs1Vs9Zr4IHq
+Note that NSFW feature has been turned OFF. 
