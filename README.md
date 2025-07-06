@@ -21,4 +21,17 @@ This repository presents code, data and documentation for a study on automatic e
 ## Webdemo
 
 A static webpage capable of enhancing the prompts and generate new image is avaliable at: https://drive.google.com/drive/folders/1OU19AtYCvr_IaP539iadXs1Vs9Zr4IHq
+
 Note that NSFW feature has been turned OFF. 
+
+## Authors
+- Dau Vu Dang Khoi: vdk.dau.2024@mitb.smu.edu.sg
+- Li Xinjie ✉ : xinjie.li.2024@mitb.smu.edu.sg
+- Nguyen Ha: ha.nguyen.2024@mitb.smu.edu.sg
+- Samuel Lee Wei Sheng: ws.lee.2024@mitb.smu.edu.sg
+- Bryan Chang Tze Kin: tk.chang.2024@mitb.smu.edu.sg
+
+
+## Acknowledgements
+
+We would like to express our sincere gratitude to **Prof. Deng Yang** (ydeng@smu.edu.sg) for his invaluable guidance and support throughout this project. We are honored to be the first-ever cohort he has taught.
